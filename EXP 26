@@ -1,0 +1,4 @@
+Automaton Simulator, v1.0
+turing {
+	alphabet {abcd*_}
+}

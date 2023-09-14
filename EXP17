@@ -1,0 +1,194 @@
+Automaton Simulator, v1.0
+turing {
+	alphabet {abcd*_}
+	state {
+		initial {yes}
+		coord {565 455}
+	}
+	state {
+		coord {708 320}
+	}
+	state {
+		coord {931 307}
+	}
+	state {
+		coord {1080 430}
+	}
+	state {
+		coord {753 541}
+	}
+	state {
+		coord {946 541}
+	}
+	state {
+		final {yes}
+		coord {1310 289}
+	}
+	edge 1 2 {
+		transits {}
+		offset {0.5235987755982988}
+		direction {R}
+	}
+	edge 2 2 {
+		transits {}
+		offset {2.356194490192345}
+		direction {R}
+	}
+	edge 0 1 {
+		transits {a}
+		offset {0.5235987755982988}
+		direction {R}
+		output {_}
+	}
+	edge 2 3 {
+		transits {}
+		offset {0.5235987755982988}
+		direction {R}
+	}
+	edge 5 3 {
+		transits {}
+		offset {-0.24374538417713432}
+		direction {R}
+	}
+	edge 4 5 {
+		transits {}
+		offset {0.5235987755982988}
+		direction {R}
+	}
+	edge 3 0 {
+		transits {}
+		offset {-0.13075501727248717}
+		direction {R}
+	}
+	edge 0 4 {
+		transits {}
+		offset {0.5235987755982988}
+		direction {R}
+	}
+	edge 3 3 {
+		transits {}
+		offset {0.4510696559885235}
+		direction {R}
+	}
+	edge 2 6 {
+		transits {}
+		offset {0.5235987755982988}
+		direction {R}
+	}
+	edge 1 1 {
+		transits {b}
+		offset {2.649783477601095}
+		direction {L}
+		output {b}
+	}
+	edge 1 1 {
+		transits {}
+		offset {-1.1604480650154223}
+		direction {R}
+	}
+	edge 4 4 {
+		transits {}
+		offset {2.709184878019255}
+		direction {R}
+	}
+	edge 4 4 {
+		transits {}
+		offset {-0.7790288227787852}
+		direction {R}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {662 284}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {663 270}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {666 280}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {666 280}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {677 274}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {650 275}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {661 279}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {656 282}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {652 288}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {652 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {652 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {652 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {652 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {648 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {661 287}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {667 290}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {651 289}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {771 335}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {650 284}
+	}
+}
